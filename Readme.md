@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/pranavoswal/pranavoswal/master/name.svg" alt="Pranav Oswal" />
+  <img src="https://raw.githubusercontent.com/PranavTechie21/PranavTechie21/master/name.svg" alt="Pranav Oswal" />
 </h1>
 
 <h3 align="center">A passionate FullStack developer from India</h3>
