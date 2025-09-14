@@ -38,4 +38,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavtechie21&" alt="pranavtechie21" /></p>
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/PranavTechie21/PranavTechie21/output/snake.svg)
+
+
+
