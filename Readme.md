@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Pranav Oswal</h1>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/pranavoswal/pranavoswal/master/name.svg" alt="Pranav Oswal" />
+</h1>
+
 <h3 align="center">A passionate FullStack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavtechie21&label=Profile%20views&color=0e75b6&style=flat" alt="pranavtechie21" /> </p>
@@ -33,3 +36,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavtechie21&show_icons=true&locale=en" alt="pranavtechie21" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavtechie21&" alt="pranavtechie21" /></p>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
