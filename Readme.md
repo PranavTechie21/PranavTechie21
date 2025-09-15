@@ -35,8 +35,15 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavtechie21&show_icons=true&locale=en" alt="pranavtechie21" /></p>
 
+</div>
+<div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavtechie21&" alt="pranavtechie21" /></p>
 <br clear="both">
+
+# 🔝 Top Contributed Repo
+<div align="center">
+
+![](https://github-contributor-stats.vercel.app/api?username=PranavTechie21&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ![Snake animation](https://raw.githubusercontent.com/PranavTechie21/PranavTechie21/output/snake.svg)
 
