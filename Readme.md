@@ -1,18 +1,19 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/PranavTechie21/PranavTechie21/master/name.svg" alt="Pranav Oswal" />
+  <img src=".github/workflows/name.svg" alt="Pranav Oswal" />
 </h1>
-
 <h3 align="center">A passionate FullStack developer from India</h3>
-
+<div align="right">
+  <img src=".github/workflows/Designer.gif" width="750" height="500"/>
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavtechie21&label=Profile%20views&color=0e75b6&style=flat" alt="pranavtechie21" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/PranavTechie21](https://github.com/PranavTechie21)
+👨‍💻 All of my projects are available at [https://github.com/PranavTechie21](https://github.com/PranavTechie21)
 
-- 💬 Ask me about **Data Structures & Algorithms (brute-force ➝ optimal approaches) Full-stack development (React, Node.js, Express, MongoDB) Machine Learning, Python, and data science basics Competitive programming, problem-solving strategies, OOP concepts**
+💬 Ask me about **Data Structures & Algorithms (brute-force ➝ optimal approaches) Full-stack development (React, Node.js, Express, MongoDB) Machine Learning, Python, and data science basics Competitive programming, problem-      solving strategies, OOP concepts**
 
-- 📫 How to reach me **pranavoswal21@gmail.com**
+📫 How to reach me **pranavoswal21@gmail.com**
 
-- ⚡ Fun fact **I talk to my code more than people… and it listens better too!**
+⚡ Fun fact **I talk to my code more than people… and it listens better too!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
