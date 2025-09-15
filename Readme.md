@@ -2,7 +2,7 @@
   <img src=".github/workflows/name.svg" alt="Pranav Oswal" />
 </h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
-<div align="right">
+<div align="center">
   <img src=".github/workflows/Designer.gif" width="750" height="500"/>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavtechie21&label=Profile%20views&color=0e75b6&style=flat" alt="pranavtechie21" /> </p>
