@@ -31,12 +31,14 @@
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=PranavTechie21&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PranavTechie21&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavTechie21&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavTechie21&layout=compact&theme=gruvbox)]
 
 
 </div>
 <div align="center">
+
 
 <br clear="both">
 
