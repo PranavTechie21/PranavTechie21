@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src=".github/workflows/name.svg" alt="Pranav Oswal" />
+  <img src=".github/workflows/name.svg" alt="Pranav Oswal" />
 </h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
@@ -69,11 +69,10 @@
 ### GitHub Stats
 
 <div align="center">
-  
   <br/>
   <img src="https://github-contributor-stats.vercel.app/api?username=PranavTechie21&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Pranav's Contribution Stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PranavTechie21&theme=dark&hide_border=false&date_format=%5BY%2Fm%2Fd%5D" alt="Pranav's GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=PranavTechie21&theme=dark&hide_border=false&date_format=%5BY%2Fm%2Fd%5D" alt="Pranav's GitHub Streak"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavTechie21&layout=compact&theme=gruvbox" alt="Pranav's Top Languages"/>
 </div>
