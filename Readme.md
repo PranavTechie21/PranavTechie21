@@ -66,23 +66,54 @@
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
-  <br/>
-  <img src="https://github-contributor-stats.vercel.app/api?username=PranavTechie21&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Pranav's Contribution Stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=PranavTechie21&theme=dark">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavTechie21&layout=compact&theme=gruvbox" alt="Pranav's Top Languages"/>
+  
+  ![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PranavTechie21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10)
+  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=PranavTechie21&theme=tokyonight&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavTechie21&layout=compact&theme=tokyonight&border_radius=10&langs_count=8)
+  
 </div>
 
 ---
 
-### GitHub Trophies
+### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PranavTechie21&theme=juicyfresh" alt="Pranav's GitHub Trophies"/>
-  <br>
-  <img src="https://raw.githubusercontent.com/PranavTechie21/PranavTechie21/output/snake.svg" alt="Snake animation"/>
+  
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=PranavTechie21&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7)
+  
+</div>
+
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+  
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PranavTechie21&theme=tokyo-night&hide_border=true&area=true)
+  
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  
+  ![Snake animation](https://raw.githubusercontent.com/PranavTechie21/PranavTechie21/output/snake.svg)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  
+  ### 💡 Show some ❤️ by starring some of my repositories!
+  
 </div>
