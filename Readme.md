@@ -13,16 +13,16 @@
   <img src="https://komarev.com/ghpvc/?username=pranavtechie21&label=Profile%20views&color=0e75b6&style=flat" alt="pranavtechie21" /> 
 </p>
 
-### About Me
+## 👨‍💻 About Me
 
-- 👨‍💻 All of my projects are available at [https://github.com/PranavTechie21](https://github.com/PranavTechie21)
+- 🔭 All of my projects are available at [https://github.com/PranavTechie21](https://github.com/PranavTechie21)
 - 💬 Ask me about: **Data Structures & Algorithms (brute-force ➝ optimal approaches), Full-stack development (React, Node.js, Express, MongoDB), Machine Learning, Python, and data science basics, Competitive programming, problem-solving strategies, OOP concepts.**
 - 📫 How to reach me: **pranavoswal21@gmail.com**
 - ⚡ Fun fact: **I talk to my code more than people… and it listens better, too!**
 
 ---
 
-### Connect with Me
+## 🌐 Connect with Me
 
 <p align="left">
   <a href="https://www.codechef.com/users/pranavoswal23" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pranavoswal23" height="30" width="40" /></a>
@@ -33,7 +33,7 @@
 
 ---
 
-### Languages and Tools
+## 🛠️ Languages and Tools
 
 <p align="left"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
@@ -66,54 +66,55 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  
-  ![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PranavTechie21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10)
-  
-  ![GitHub Streak](https://streak-stats.demolab.com?user=PranavTechie21&theme=tokyonight&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavTechie21&layout=compact&theme=tokyonight&border_radius=10&langs_count=8)
-  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PranavTechie21&theme=tokyonight" alt="Profile Details" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PranavTechie21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false&border_radius=10" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PranavTechie21&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PranavTechie21&theme=tokyonight" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PranavTechie21&theme=tokyonight" alt="Most Commit Language" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PranavTechie21&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PranavTechie21&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
 </div>
 
 ---
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
-  
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=PranavTechie21&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7)
-  
+  <img src="https://github-profile-trophy.vercel.app/?username=PranavTechie21&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
 
-### 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PranavTechie21&theme=tokyo-night&hide_border=true&area=true)
-  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PranavTechie21&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ---
 
-### 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
-  
-  ![Snake animation](https://raw.githubusercontent.com/PranavTechie21/PranavTechie21/output/snake.svg)
-  
+  <img src="https://raw.githubusercontent.com/PranavTechie21/PranavTechie21/output/snake.svg" alt="Snake Animation" />
 </div>
 
 ---
 
 <div align="center">
-  
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
   
   ### 💡 Show some ❤️ by starring some of my repositories!
-  
 </div>
