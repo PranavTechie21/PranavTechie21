@@ -83,11 +83,14 @@
 </p>
 
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Pacman
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/PranavTechie21/PranavTechie21/output/snake.svg" alt="Snake Animation" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranavTechie21/PranavTechie21/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranavTechie21/PranavTechie21/output/pacman-contribution-graph.svg">
+  <img width="100%" alt="pacman contribution graph" src="https://raw.githubusercontent.com/PranavTechie21/PranavTechie21/output/pacman-contribution-graph.svg">
+</picture>
+
 
 ---
 
