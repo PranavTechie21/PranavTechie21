@@ -16,17 +16,6 @@
 
 
 
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://www.codechef.com/users/pranavoswal23" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pranavoswal23" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/pranavoswal23" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="pranavoswal23" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/pranavoswal23" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pranavoswal23" height="30" width="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/pranavoswal23" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pranavoswal23" height="30" width="40" /></a>
-</p>
-
----
-
 ## 🛠️ Languages and Tools
 
 <p align="left"> 
@@ -58,16 +47,14 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 </p>
 
----
+
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PranavTechie21&theme=tokyonight" alt="Profile Details" />
-</div>
+
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PranavTechie21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false&border_radius=10" alt="GitHub Stats" />
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PranavTechie21&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" />
 </div>
 
@@ -83,21 +70,18 @@
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PranavTechie21&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
-</div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:021B79,100:0575E6&height=45&section=header&text=GitHub%203D%20Contribution&fontSize=25&fontColor=ffffff" width="100%" />
+<br><br>
 
-## 📈 Contribution Graph
+<p align="center">
+  <img 
+    src="https://ssr-contributions-svg.vercel.app/_/PranavTechie21?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native" 
+    width="85%" 
+  />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PranavTechie21&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
