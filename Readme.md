@@ -1,26 +1,20 @@
 <h1 align="center">
   <img src=".github/workflows/name.svg" alt="Pranav Oswal" />
 </h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2600&pause=1200&color=00D2FF&center=true&vCenter=true&width=900&height=60&lines=Hello!+I+am+a+Passionate+Full+Stack+Developer;CE+Student+at+PICT;Mastering+Data+Structures+%26+Algorithms;Eager+to+Explore+New+Innovations"
+    alt="Typing SVG"
+  />
+</p>
+
+
 
 <p align="center">
   <img src=".github/workflows/Designer.gif" width="750" height="500" alt="Coding GIF"/>
 </p>
 
----
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=pranavtechie21&label=Profile%20views&color=0e75b6&style=flat" alt="pranavtechie21" /> 
-</p>
-
-## 👨‍💻 About Me
-
-- 🔭 All of my projects are available at [https://github.com/PranavTechie21](https://github.com/PranavTechie21)
-- 💬 Ask me about: **Data Structures & Algorithms (brute-force ➝ optimal approaches), Full-stack development (React, Node.js, Express, MongoDB), Machine Learning, Python, and data science basics, Competitive programming, problem-solving strategies, OOP concepts.**
-- 📫 How to reach me: **pranavoswal21@gmail.com**
-- ⚡ Fun fact: **I talk to my code more than people… and it listens better, too!**
-
----
 
 ## 🌐 Connect with Me
 
