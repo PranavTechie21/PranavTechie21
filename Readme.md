@@ -50,9 +50,20 @@
 
 
 <h2 align="center">🌐 Web & Full-Stack Development</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,nodejs,express,tailwind,npm&perline=9" />
-</p>
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="45"/><br/>HTML</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="45"/><br/>CSS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="45"/><br/>JavaScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="45"/><br/>React</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=angular" width="45"/><br/>Angular</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="45"/><br/>Node.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="45"/><br/>Express</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br/>Tailwind</td>
+  </tr>
+</table>
+
 
 <h2 align="center">🧩 Databases & Backend Tools</h2>
 <p align="center">
