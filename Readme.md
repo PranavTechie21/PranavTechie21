@@ -20,37 +20,19 @@
 <br>
 
 <h2 align="center">🧠 Core Programming</h2>
-
 <table align="center">
   <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=c" width="50"/><br/>
-      <b>C</b>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=cpp" width="50"/><br/>
-      <b>C++</b>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=java" width="50"/><br/>
-      <b>Java</b>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=python" width="50"/><br/>
-      <b>Python</b>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=typescript" width="50"/><br/>
-      <b>TypeScript</b>
-    </td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=c" width="50"/><br/><b>C</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="50"/><br/><b>C++</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java" width="50"/><br/><b>Java</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="50"/><br/><b>Python</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=typescript" width="50"/><br/><b>TypeScript</b></td>
   </tr>
 </table>
 
-
-
+---
 
 <h2 align="center">🌐 Web & Full-Stack Development</h2>
-
 <table align="center">
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=html" width="45"/><br/>HTML</td>
@@ -64,27 +46,57 @@
   </tr>
 </table>
 
+---
 
-<h2 align="center">🧩 Databases & Backend Tools</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,sqlite,postman&perline=8" />
-</p>
+<h2 align="center">🧩 Databases</h2>
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgresql" width="45"/><br/>PostgreSQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="45"/><br/>MySQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=sqlite" width="45"/><br/>SQLite</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="45"/><br/>MongoDB</td>
+  </tr>
+</table>
+
+
+---
 
 <h2 align="center">🤖 Machine Learning & Data Science</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,opencv&perline=8" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="45"/><br/>Python</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=sklearn" width="45"/><br/>Scikit-learn</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="45"/><br/>TensorFlow</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=pytorch" width="45"/><br/>PyTorch</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=opencv" width="45"/><br/>OpenCV</td>
+  </tr>
+</table>
+
+---
 
 <h2 align="center">🛠️ DevOps, Systems & Tooling</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&perline=8" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="45"/><br/>Git</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="45"/><br/>GitHub</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="45"/><br/>Docker</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="45"/><br/>Linux</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="45"/><br/>Postman</td>
+  </tr>
+</table>
+
+---
 
 <h2 align="center">🎨 Design, Visualization & Hardware</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,blender,arduino,raspberrypi&perline=8" />
-</p>
-
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="45"/><br/>Figma</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=blender" width="45"/><br/>Blender</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=arduino" width="45"/><br/>Arduino</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=raspberrypi" width="45"/><br/>Raspberry Pi</td>
+  </tr>
+</table>
 
 ---
 
@@ -109,10 +121,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:021B79,100:0575E6&height=45&section=header&text=3D%20Contribution%20Graph&fontSize=25&fontColor=ffffff" width="100%" />
 
 <p align="center">
-  <img 
-    src="https://ssr-contributions-svg.vercel.app/_/PranavTechie21?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&theme=native" 
-    width="85%" 
-  />
+  <img src="https://ssr-contributions-svg.vercel.app/_/PranavTechie21?chart=3dbar&scale=2&animation=wave&theme=native" width="85%" />
 </p>
 
 ---
