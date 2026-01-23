@@ -17,8 +17,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:021B79,100:0575E6&height=45&section=header&text=Technical%20Arsenal&fontSize=25&fontColor=ffffff" width="100%" />
 
-<br>
-
 <h2 align="center">🧠 Core Programming</h2>
 <table align="center">
   <tr>
@@ -30,7 +28,6 @@
   </tr>
 </table>
 
----
 
 <h2 align="center">🌐 Web & Full-Stack Development</h2>
 <table align="center">
@@ -46,7 +43,6 @@
   </tr>
 </table>
 
----
 
 <h2 align="center">🧩 Databases</h2>
 
@@ -60,8 +56,6 @@
 </table>
 
 
----
-
 <h2 align="center">🤖 Machine Learning & Data Science</h2>
 <table align="center">
   <tr>
@@ -73,7 +67,6 @@
   </tr>
 </table>
 
----
 
 <h2 align="center">🛠️ DevOps, Systems & Tooling</h2>
 <table align="center">
@@ -86,7 +79,6 @@
   </tr>
 </table>
 
----
 
 <h2 align="center">🎨 Design, Visualization & Hardware</h2>
 <table align="center">
@@ -97,8 +89,6 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=raspberrypi" width="45"/><br/>Raspberry Pi</td>
   </tr>
 </table>
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:021B79,100:0575E6&height=45&section=header&text=GitHub%20Statistics&fontSize=25&fontColor=ffffff" width="100%" />
 
