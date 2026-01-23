@@ -20,9 +20,34 @@
 <br>
 
 <h2 align="center">🧠 Core Programming</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,typescript&perline=8" />
-</p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=c" width="50"/><br/>
+      <b>C</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=cpp" width="50"/><br/>
+      <b>C++</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java" width="50"/><br/>
+      <b>Java</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python" width="50"/><br/>
+      <b>Python</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=typescript" width="50"/><br/>
+      <b>TypeScript</b>
+    </td>
+  </tr>
+</table>
+
+
+
 
 <h2 align="center">🌐 Web & Full-Stack Development</h2>
 <p align="center">
